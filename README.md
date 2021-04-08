@@ -1,7 +1,5 @@
-### Hi there 👋
 
-<!--
-**Shangguanxingchen/shangguanxingchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+“天行健，君子以自强不息。地势坤，君子以厚德载物。”
 
 Here are some ideas to get you started:
 
